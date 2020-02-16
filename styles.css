@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: 'Comic Sans MS';
+    background-color: #eee; 
+}
+
+button {
+    font-size: 18px;
+    padding: 13px;
+    margin: 12px;
+    background-color: silver;
+    border-radius: 6px;
+}
